@@ -1,0 +1,16 @@
+LOGIN_EMAIL = "login-email"
+LOGIN_PW = "login-password"
+CURRENT_HP = "currenthp"
+PLUS_HP = "plus-icon"
+MAX_HP = "maxhp"
+BT_LOGIN = ".button > input"
+PAGE_ALLEY = "/alley/"
+PAGE_PLAYER = "/player/"
+PAGE_HOME = "/home/"
+PAGE_CLAN = "clan/profile/"
+PAGE_CLAN_BEAST = "clanbeast/"
+PAGE_TRAVEL2 = '/travel2/'
+PAGE_TOWER = '/square/tvtower/'
+PVP_LAND_DROPDOWN = "travel-2-country"
+BT_DROPDOWN = 'button'
+MOSWAR_URL = 'https://www.moswar.ru'

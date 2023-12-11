@@ -1,0 +1,9 @@
+[2022-12-04 11:30:55,001] main_window.py[LINE:103] ERROR    QWebEnginePage.toHtml() takes exactly one argument (0 given)
+[2022-12-04 11:32:05,671] main_window.py[LINE:103] ERROR    QWebEnginePage.toHtml() takes exactly one argument (0 given)
+[2022-12-04 12:39:32,814] main_window.py[LINE:101] ERROR    get_html() missing 1 required positional argument: 'html'
+[2022-12-04 18:41:39,245] main_window.py[LINE:104] ERROR    QWebEnginePage.toHtml() takes exactly one argument (0 given)
+[2022-12-04 23:11:16,041] main_window.py[LINE:95] ERROR    a bytes-like object is required, not 'BeautifulSoup'
+[2022-12-04 23:19:36,691] main_window.py[LINE:97] ERROR    'PySide6.QtWebEngineWidgets.QWebEngineView' object has no attribute 'doc'
+[2023-07-28 22:43:04,659] main_window.py[LINE:101] ERROR    'MainWindow' object has no attribute 'current_html'
+[2023-07-28 22:43:48,032] main_window.py[LINE:101] ERROR    'MainWindow' object has no attribute 'current_html'
+[2023-07-28 22:49:13,029] main_window.py[LINE:101] ERROR    'MainWindow' object has no attribute 'current_html'
