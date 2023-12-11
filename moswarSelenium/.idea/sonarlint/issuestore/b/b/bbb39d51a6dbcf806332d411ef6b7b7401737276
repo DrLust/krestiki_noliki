@@ -1,10 +1,0 @@
-
-fpython:S2208"GImport only needed names or import the module and then use its members.(—ù÷à8•×ô†Á1
-kpython:S2208"GImport only needed names or import the module and then use its members.(²âé‹øÿÿÿÿ8•×ô†Á1
-fpython:S2208"GImport only needed names or import the module and then use its members.(×ŒŸÌ8•×ô†Á1
-Xpython:S1144½"8Remove this unused class-private '__do_pvp_task' method.(Ø½¬‹8•×ô†Á1
-Ypython:S1144g"5Remove this unused class-private '__do_tower' method.(Þã´²üÿÿÿÿ8•×ô†Á1
-Ypython:S1144V":Remove this unused class-private '__do_clan_beast' method.(Žè¨‘8•×ô†Á1
-Bpython:S125P"Remove this commented out code.(¾Å·÷üÿÿÿÿ8•×ô†Á1
-Ypython:S1481k"5Remove the unused local variable "useful_gold_items".(öŠîËÿÿÿÿÿ8–×ô†Á1
-Epython:S1481¬"%Remove the unused local variable "i".(¨ŽùÇ8–×ô†Á1
